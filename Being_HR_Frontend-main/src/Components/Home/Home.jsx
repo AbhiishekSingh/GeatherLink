@@ -104,7 +104,7 @@ function Home() {
      <div className="home-container">
         <div className="images-section">
           <div className="image-row">
-            <img src="https://gainskillsmedia.com/assets/images/about-img.webp" alt="Event 6" className="image" />
+            <img src="/home.jpg" alt="Event 6" className="image" />
           </div>
         </div>
         <div className="text-section">
